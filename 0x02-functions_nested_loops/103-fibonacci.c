@@ -1,4 +1,4 @@
-include "main.h"
+#include <stdio.h>
 
 /**
  * main - finds and prints the sum of the even-valued terms
@@ -29,3 +29,4 @@ int main(void)
 
 	return (0);
 }
+
