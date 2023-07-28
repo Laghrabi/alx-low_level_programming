@@ -1,1 +1,1 @@
-this is singly linked project
+readme for linked list
